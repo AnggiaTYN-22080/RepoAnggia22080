@@ -1,1 +1,3 @@
-"buat file1" 
+File 1 simulasi github
+Nama : Anggia Tejaningtyas Yudha Negara
+NPM  : 6182201080
